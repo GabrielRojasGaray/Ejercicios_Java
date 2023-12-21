@@ -1,4 +1,4 @@
-package lavadora_f;
+package Encapsulamiento_Lav;
 
 
 /**

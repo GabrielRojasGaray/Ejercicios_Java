@@ -1,6 +1,6 @@
 package proyecto.ejercicios_java;
 
-import lavadora_f.LFunciones;
+import Encapsulamiento_Lav.LFunciones;
 import java.util.Scanner;
 
 /**
